@@ -914,8 +914,7 @@ body {
     flex-direction: column;
   }
   .registration__card {
-    width: 80%;
-     margin-bottom: 2rem;
+    width: 75%;
     margin-top: 2rem;
   }
   .registration__card h1 {
