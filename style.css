@@ -49,7 +49,7 @@ body {
       rgba(58, 58, 55, 0.5),
       rgba(20, 17, 17, 0.5)
     ),
-    url(./image/carousel-1.jpg);
+    url(../image/carousel-1.jpg);
   background-size: cover;
   height: 100vh;
   width: 100vw;
