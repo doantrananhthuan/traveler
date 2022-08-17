@@ -572,7 +572,11 @@ body {
   .mobile-menu-btn {
     display: none;
   }
-   .destination-item {
+   .destination-top {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .destination-item {
     flex-basis: 29%;
   }
   .destination-text {
