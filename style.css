@@ -572,6 +572,13 @@ body {
   .mobile-menu-btn {
     display: none;
   }
+   .destination-item {
+    flex-basis: 29%;
+  }
+  .destination-text {
+    top: 45px;
+    left: 45px;
+  }
 }
 /*Ipad Pro*/
 
